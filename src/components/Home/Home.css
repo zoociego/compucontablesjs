@@ -1,0 +1,9 @@
+.border {
+    border: 2px solid black;
+}
+
+.table-button {
+    margin-bottom: 2rem;
+    width: 15rem;
+    height: 5rem;
+}
